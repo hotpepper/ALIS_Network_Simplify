@@ -1,0 +1,8 @@
+path_type | folder path,
+root_data_folder | \ALIS_tamer_data,
+root_data_fgdb | \ALIS_working.gdb,
+sql_server_name | sdeSERVER,
+sql_server_db_name | ALIS_Network,
+sql_server_db_username | ,
+sql_server_db_password | ,
+sql_server_db_schema |  SHOSTETTER
