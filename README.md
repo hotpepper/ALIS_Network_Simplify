@@ -13,6 +13,3 @@ This requires PYODBC (used 2.1.11 for development) and Arcpy with ArcEditor or g
 
 ### Smple Output ###
 ![alt tag](https://github.com/hotpepper/ALIS_Network_Simplify/blob/master/SampleOutput2.png)
-
-### Smple Output ###
-![alt tag](https://github.com/hotpepper/ALIS_Network_Simplify/blob/master/SampleOutput.JPG)
